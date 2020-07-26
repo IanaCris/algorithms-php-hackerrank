@@ -1,6 +1,6 @@
 <?php
 /*
-https://www.hackerrank.com/challenges/the-birthday-bar/problem
+Problem: https://www.hackerrank.com/challenges/the-birthday-bar/problem
 */
 
 function birthday($s, $d, $m) {
